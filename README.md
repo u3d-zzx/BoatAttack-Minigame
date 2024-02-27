@@ -1,8 +1,10 @@
 
-### boatAttack 修改日志
-####    参考unity官方：[BoatAttck Github](https://github.com/Unity-Technologies/BoatAttack) 
+![](Docs/demo.jpeg)
 
-####    优化修改内容 :
+#### boatAttack 修改日志
+#####    参考unity官方：[BoatAttck Github](https://github.com/Unity-Technologies/BoatAttack) 
+
+#####    优化修改内容 :
 - **水面优化** 
   - **原因**：中端机型上运行时减少卡顿
   - **修改概况** ： 每次进入场景需要bake water depth，换成使用已经bake好的depth贴图
@@ -78,3 +80,29 @@
 - 详细步骤请参考 团结引擎官方文档[微信小游戏-快速上手](https://docs.unity.cn/cn/tuanjiemanual/Manual/AutoStreamingDemo.html) 章节.
 
 - 当前微信小游戏SDK中使用的brotli路径指向了WebGL目录，因此需要安装WebGLSupport平台
+
+
+#### 性能测试
+- **打包选项**：
+	- 微信小游戏转换工具面板：
+		- UnityHeap 192MB
+		- 勾选 webgl 2.0， il2cpp Optimize Size
+	- Editor BuildSettings：
+		- Code Optimization： Disk Size
+
+	- 小游戏设置
+		- 高性能模式
+		- 未开启代码分包
+
+- **测试环境**： 
+	- iphone 14 + 风扇降温
+	- instruments
+
+- **测试结果：**
+	- 首包大小： 11.1MB
+		- wasm 4.65MB （br压缩）
+		- data 6.5MB （gzip压缩）
+	- 启动时间 2.55s
+	- fps 54 - 91 均值 70
+	- 平均cpu使用率 65%
+	- 内存峰值 752MB
