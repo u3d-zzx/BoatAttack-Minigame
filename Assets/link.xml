@@ -1,0 +1,8 @@
+<linker>
+    <assembly fullname="UnityEngine">
+        <type fullname="UnityEngine.PhysicMaterial" preserve="all"/>
+    </assembly>
+	<assembly fullname="UnityEngine.AIModule">
+        <type fullname="UnityEngine.AI.NavMeshObstacle" preserve="all"/>
+    </assembly>
+</linker>

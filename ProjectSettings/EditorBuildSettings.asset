@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/scenes/main_menu_simple.unity
+    guid: 0404ecc7dbc65e643830e68a4afbdb4f
+  - enabled: 1
+    path: Assets/scenes/_levels/level_Island.unity
+    guid: e49366a21c3d84388bfb33016c0e77e2
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: 3f119a19757f84dac85ee298b9dd65d3,
+      type: 2}
+  m_SlimFeaturesWeixinMiniGame:
+    DecompressASTC: 0
+    DecompressDXT: 1
+    DecompressETC: 1
+    FreeTypeSfntPng: 1
+    LightProbe: 2

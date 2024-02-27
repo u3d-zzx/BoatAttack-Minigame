@@ -1,0 +1,3293 @@
+%YAML 1.1
+%TAG !u! tag:yousandi.cn,2023:
+--- !u!1200 &1
+AutoStreamingSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  mSearchMode: 7
+  mCustomSearchFile: /Users/zxz/repos/boatattack/Assets/CustomSearch.txt
+  mTextureSearchString: 
+  mMeshSearchString: 
+  mTextures:
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Maps/Trees_Albedo.png
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 506200
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Maps/Trees_Normal_Smoothness.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 398242
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Clouds/Clouds_AO.tif
+    localFileId: 2800000
+    rtMem: 21888
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 14036
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Clouds/Clouds.tif
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 1023155
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Island/Rock_normal.tif
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 35127
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Terrain/Bush_normal.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 536098
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Terrain/Bush_basecolor.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 606844
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Cliff_defaultMat_AONormal.tif
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 2164852
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Cliff_defaultMat_BaseCurvature.tif
+    localFileId: 2800000
+    rtMem: 1398144
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 1335168
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/Maps/HousesJetty_LOW_Matr_BuildingsJettys_AlbedoTransparency.tif
+    localFileId: 2800000
+    rtMem: 349568
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 315247
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/Maps/HousesJetty_LOW_Matr_BuildingsJettys_Normal.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 542239
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/Maps/HousesJetty_LOW_Matr_BuildingsJettys_Emission.tif
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 35173
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/Maps/HousesJetty_LOW_Matr_BuildingsJettys_MetallicSmoothness.tif
+    localFileId: 2800000
+    rtMem: 1398128
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 1241698
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Packages/com.verasl.water-system/Textures/WaterSurface_single.tif
+    localFileId: 2800000
+    rtMem: 349524
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 350268
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/RenderEffects/PaintLabel.tif
+    localFileId: 2800000
+    rtMem: 10528
+    warningFlag: 0
+    refs:
+    - res
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 64
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/Levels/Island/Terrain_1_0_simple.asset
+    localFileId: 1218032770046054836
+    rtMem: 87380
+    warningFlag: 1
+    refs:
+    - 0
+    maxPlaceholderSize: 589856
+    width: 128
+    height: 128
+    abSize: 3604
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/Levels/Island/Terrain_0_0.asset
+    localFileId: 4602660589605781669
+    rtMem: 1398100
+    warningFlag: 1
+    refs:
+    - 1
+    maxPlaceholderSize: 589856
+    width: 512
+    height: 512
+    abSize: 57551
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF
+      - Fallback.asset
+    localFileId: 28268798066460806
+    rtMem: 262144
+    warningFlag: 1
+    refs:
+    - 0
+    - fonts
+    - res
+    - ui_playermarker
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 589856
+    width: 512
+    height: 512
+    abSize: 48771
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Fonts/SourceHanSansCN-Medium SDF_startup.asset
+    localFileId: -2358404209150895993
+    rtMem: 32768
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 589856
+    width: 256
+    height: 128
+    abSize: 15067
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/Levels/Island/Terrain_1_0.asset
+    localFileId: -3571816923392496064
+    rtMem: 1398100
+    warningFlag: 1
+    refs:
+    - 1
+    maxPlaceholderSize: 589856
+    width: 512
+    height: 512
+    abSize: 78586
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Fonts/SourceHanSansCN-Medium SDF.asset
+    localFileId: 3485756218436455813
+    rtMem: 8388608
+    warningFlag: 0
+    refs:
+    - 0
+    - fonts
+    - ui_loadingscreen
+    - ui_playermarker
+    - ui_race_canvas_touch
+    - ui_racestats_player
+    maxPlaceholderSize: 589856
+    width: 4096
+    height: 2048
+    abSize: 4283722
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+    localFileId: -8646339186870600852
+    rtMem: 1048576
+    warningFlag: 1
+    refs:
+    - 0
+    - fonts
+    - res
+    - ui_playermarker
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 589856
+    width: 1024
+    height: 1024
+    abSize: 315662
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/UI/slicedDot.png
+    localFileId: 2800000
+    rtMem: 1936
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_playermapmarker
+    - ui_race_canvas_touch
+    - ui_racestats_player
+    maxPlaceholderSize: 196640
+    width: 64
+    height: 64
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/UI/adsZijie.png
+    localFileId: 2800000
+    rtMem: 5184
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 105
+    height: 105
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/UI/slicedDot_right.png
+    localFileId: 2800000
+    rtMem: 1936
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 64
+    height: 64
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceEnv.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 18909
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/UI/slicedDot_left.png
+    localFileId: 2800000
+    rtMem: 1936
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 0
+    width: 64
+    height: 64
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/BG.png
+    localFileId: 2800000
+    rtMem: 410880
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_loadingscreen
+    maxPlaceholderSize: 196640
+    width: 1280
+    height: 720
+    abSize: 388236
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceMap.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 11155
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/BG5.png
+    localFileId: 2800000
+    rtMem: 194880
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 840
+    height: 520
+    abSize: 186477
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceEnv2.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 20320
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceMap2.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 10168
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceEnv5.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 35191
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceMap5.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 8901
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/BGcycle.png
+    localFileId: 2800000
+    rtMem: 194880
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 840
+    height: 520
+    abSize: 179426
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceEnv4.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 30585
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceMap4.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 8140
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/BGcycle1.png
+    localFileId: 2800000
+    rtMem: 194880
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 840
+    height: 520
+    abSize: 167121
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceEnv3.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 25879
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/RaceMap3.png
+    localFileId: 2800000
+    rtMem: 66048
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 288
+    abSize: 10296
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Resources/textures/colorSwatch.png
+    localFileId: 2800000
+    rtMem: 132
+    warningFlag: 1
+    refs:
+    - 0
+    - res
+    maxPlaceholderSize: 0
+    width: 44
+    height: 1
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/WaterDepthMaps/main_menu_simple.png
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 11434
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/UI/slicedHole.png
+    localFileId: 2800000
+    rtMem: 1936
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 0
+    width: 64
+    height: 64
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/BoatAttack-logo-RE.png
+    localFileId: 2800000
+    rtMem: 37152
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 160
+    abSize: 14008
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Textures/DefaultFoamRamp.tif
+    localFileId: 2800000
+    rtMem: 768
+    warningFlag: 1
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 0
+    width: 256
+    height: 1
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Packages/com.verasl.water-system/Textures/WaterFoam.png
+    localFileId: 2800000
+    rtMem: 699050
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 677067
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/normalNoise.png
+    localFileId: 2800000
+    rtMem: 262143
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 244432
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: "Assets/Textures/UI/\u6309\u94AE\u6A21\u5F0Fa.png"
+    localFileId: 2800000
+    rtMem: 368448
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 1208
+    height: 680
+    abSize: 350383
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/UI/WhiteCircle.png
+    localFileId: 2800000
+    rtMem: 29584
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 6654
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/UI/shape033_style01_color10.png
+    localFileId: 2800000
+    rtMem: 29584
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 0
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Objects/UI/Free Flat Media Pause Icon.png
+    localFileId: 2800000
+    rtMem: 29584
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 0
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/UI/shape033_style01_color08.png
+    localFileId: 2800000
+    rtMem: 29584
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 0
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/UI/shape026_style01_color10.png
+    localFileId: 2800000
+    rtMem: 29584
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 0
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/UI/shape028_style01_color10.png
+    localFileId: 2800000
+    rtMem: 29584
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 0
+    width: 256
+    height: 256
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: "Assets/Textures/UI/\u91CD\u529B\u6A21\u5F0Fa.png"
+    localFileId: 2800000
+    rtMem: 368448
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+    maxPlaceholderSize: 196640
+    width: 1208
+    height: 680
+    abSize: 349437
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/main_menu_simple/Lightmap-0_comp_light.exr
+    localFileId: 2800000
+    rtMem: 87380
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 14000
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/main_menu_simple/ReflectionProbe-0.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 57803
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/main_menu_simple/ReflectionProbe-1.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 25771
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/scenes/main_menu_simple/ReflectionProbe-2.exr
+    localFileId: 8900000
+    rtMem: 4992
+    warningFlag: 0
+    refs:
+    - 0
+    maxPlaceholderSize: 0
+    width: 32
+    height: 32
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Terrain/BeachSand_basecolor.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 441496
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Terrain/BeachSand_normal.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 473977
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Terrain/Bush.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 618244
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Rocks_defaultMat_AONormal.tif
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 2132449
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Rocks_defaultMat_BaseCurvature.tif
+    localFileId: 2800000
+    rtMem: 1398144
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 1351998
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Maps/Props_LOW_Matr_Props_AlbedoTransparency.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 249151
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Maps/Props_LOW_Matr_Props_Normal.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 510613
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Maps/Props_LOW_Matr_Props_MetallicSmoothness.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 513105
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Water/WaterSplashes.tif
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    - boatshare
+    - interceptor
+    - renegade
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 93168
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Water/base.png
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    - boatshare
+    - interceptor
+    - renegade
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 25325
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Flipbooks/WispySmoke03b_8x8.png
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 414423
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Textures/White1px.png
+    localFileId: 2800000
+    rtMem: 3
+    warningFlag: 0
+    refs:
+    - res
+    maxPlaceholderSize: 0
+    width: 1
+    height: 1
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Textures/UIElement8px.png
+    localFileId: 2800000
+    rtMem: 256
+    warningFlag: 0
+    refs:
+    - res
+    maxPlaceholderSize: 0
+    width: 8
+    height: 8
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Textures/UICheckMark.png
+    localFileId: 2800000
+    rtMem: 484
+    warningFlag: 0
+    refs:
+    - res
+    maxPlaceholderSize: 0
+    width: 11
+    height: 11
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Textures/UIFoldoutOpened.png
+    localFileId: 2800000
+    rtMem: 484
+    warningFlag: 0
+    refs:
+    - res
+    maxPlaceholderSize: 0
+    width: 11
+    height: 11
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Packages/com.unity.render-pipelines.core/Runtime/Debugging/Prefabs/Textures/UIFoldoutClosed.png
+    localFileId: 2800000
+    rtMem: 484
+    warningFlag: 0
+    refs:
+    - res
+    maxPlaceholderSize: 0
+    width: 11
+    height: 11
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/TextMesh Pro/Sprites/EmojiOne.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - res
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 88218
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Clouds/CloudShadows.png
+    localFileId: 2800000
+    rtMem: 5592432
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 2838831
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Island/seaweedtemp.png
+    localFileId: 2800000
+    rtMem: 158432
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 114049
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/WaterDepthMaps/level_island.tga
+    localFileId: 2800000
+    rtMem: 699050
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 131693
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/gastest/BatteryBaseMap.png
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 2648
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/Lightmap-0_comp_light.exr
+    localFileId: 2800000
+    rtMem: 1398100
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 1158347
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/Lightmap-0_comp_dir.png
+    localFileId: 2800000
+    rtMem: 1398100
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 1072462
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/Lightmap-1_comp_light.exr
+    localFileId: 2800000
+    rtMem: 1398100
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 579826
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/Lightmap-1_comp_dir.png
+    localFileId: 2800000
+    rtMem: 1398100
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 512
+    abSize: 570139
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-0.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 59965
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-1.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 59477
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-2.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 62269
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-3.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 60416
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-4.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 60556
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-5.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 60219
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-6.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 60714
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-7.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 59731
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-8.exr
+    localFileId: 8900000
+    rtMem: 63072
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 128
+    height: 128
+    abSize: 60814
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/scenes/_levels/level_Island/ReflectionProbe-9.exr
+    localFileId: 8900000
+    rtMem: 4992
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 0
+    width: 32
+    height: 32
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/AdImage/tuanjieWxminigameAdBoard.png
+    localFileId: 2800000
+    rtMem: 314992
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 512
+    abSize: 179779
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/InstantGameModle/ADS_Board/new_ads_board_Other_AlbedoTransparency
+      1.png
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 968183
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/InstantGameModle/ADS_Board/new_ads_board_Other_Normal.png
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 821615
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/InstantGameModle/ADS_Board/new_ads_board_Other_MetallicSmoothness
+      1.png
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 981824
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/InstantGameModle/ADS_Board/WeChat Image_20211217150701.png
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 648381
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Island/LightShaft.png
+    localFileId: 2800000
+    rtMem: 314992
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 512
+    height: 1024
+    abSize: 143483
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Maps/TreeBillBoards_albedo.png
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 274317
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Maps/TreeBillBoards_Normal_Smoothness.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 183071
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Hero_defaultMat_AONormal.tif
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 2095542
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Hero_defaultMat_BaseCurvature.tif
+    localFileId: 2800000
+    rtMem: 1398144
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 1311856
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Cliff_Full_01_defaultMat_AONormal.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 562843
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Cliff_Full_01_defaultMat_BaseCurvature.tif
+    localFileId: 2800000
+    rtMem: 349568
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 309551
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Cave_defaultMat_AONormal.tif
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 2398163
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Maps/Cave_defaultMat_BaseCurvature.tif
+    localFileId: 2800000
+    rtMem: 1398144
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 1318871
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Island/BushTest.tif
+    localFileId: 2800000
+    rtMem: 158448
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 256
+    abSize: 144304
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/gastest/Reflector_NM.png
+    localFileId: 2800000
+    rtMem: 2497712
+    warningFlag: 0
+    refs:
+    - 1
+    maxPlaceholderSize: 196640
+    width: 2048
+    height: 2048
+    abSize: 197196
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/boats/renegade/MSLL.tif
+    localFileId: 2800000
+    rtMem: 1398128
+    warningFlag: 0
+    refs:
+    - renegade
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 457204
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/boats/Interceptor/MSLL.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - interceptor
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 229243
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Water/wakeFXmap 1.tif
+    localFileId: 2800000
+    rtMem: 1024
+    warningFlag: 0
+    refs:
+    - boatshare
+    maxPlaceholderSize: 0
+    width: 32
+    height: 32
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 0
+    assetPath: Assets/Textures/Water/wakeFXmap.tif
+    localFileId: 2800000
+    rtMem: 5460
+    warningFlag: 0
+    refs:
+    - wake
+    maxPlaceholderSize: 0
+    width: 32
+    height: 32
+    abSize: 0
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/boats/Interceptor/Normal.tif
+    localFileId: 2800000
+    rtMem: 1398128
+    warningFlag: 0
+    refs:
+    - interceptor
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 659763
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/boats/renegade/Normal.tif
+    localFileId: 2800000
+    rtMem: 1398128
+    warningFlag: 0
+    refs:
+    - renegade
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 666009
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/boats/renegade/AlbedoAO.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - renegade
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 360616
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Textures/Water/WaterBoatTrail.png
+    localFileId: 2800000
+    rtMem: 40096
+    warningFlag: 0
+    refs:
+    - boatshare
+    maxPlaceholderSize: 196640
+    width: 256
+    height: 256
+    abSize: 32040
+  - serializedVersion: 2
+    onDemandDownload: 1
+    assetPath: Assets/Objects/boats/Interceptor/AlbedoAO.tif
+    localFileId: 2800000
+    rtMem: 626288
+    warningFlag: 0
+    refs:
+    - interceptor
+    maxPlaceholderSize: 196640
+    width: 1024
+    height: 1024
+    abSize: 386798
+  mAudios:
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/Music/MainTrack.wav
+    localFileId: 8300000
+    rtMem: 800511
+    warningFlag: 0
+    refs:
+    - 0
+    - res
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/Boat/RaceBoat_HighSpeed.wav
+    localFileId: 8300000
+    rtMem: 32336
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/Water/FlowingWater.wav
+    localFileId: 8300000
+    rtMem: 48958
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/Water/ShoreWaves.wav
+    localFileId: 8300000
+    rtMem: 891025
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/Water/Jetty.wav
+    localFileId: 8300000
+    rtMem: 395068
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Audio/Water/ShoreRocks.wav
+    localFileId: 8300000
+    rtMem: 414283
+    warningFlag: 0
+    refs:
+    - 1
+  mMeshes:
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Clouds/Clouds.fbx:Cloud3
+    localFileId: -7536155362762053254
+    rtMem: 3952
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Clouds/Clouds.fbx:Cloud6
+    localFileId: -6010688779067549041
+    rtMem: 9152
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Clouds/Clouds.fbx:Cloud4
+    localFileId: -2919966830593923716
+    rtMem: 4784
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Clouds/Clouds.fbx:Cloud5
+    localFileId: -2339230689865430993
+    rtMem: 9464
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Clouds/Clouds.fbx:Cloud1
+    localFileId: -2237852143325260857
+    rtMem: 4888
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Clouds/Clouds.fbx:Cloud2
+    localFileId: 4038436009513190648
+    rtMem: 6032
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_02_LOD2
+    localFileId: -8524640107704928008
+    rtMem: 4608
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_04_LOD3
+    localFileId: -8319537152309439967
+    rtMem: 2016
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_02_LOD1
+    localFileId: -8098297659270491995
+    rtMem: 5904
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_02_LOD0
+    localFileId: -7595344169390219649
+    rtMem: 21168
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_01_LOD3
+    localFileId: -7506931364834164233
+    rtMem: 1104
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Large_02_LOD0
+    localFileId: -6789796942796789602
+    rtMem: 55440
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_01_LOD0
+    localFileId: -6633375113119494896
+    rtMem: 31296
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_03_LOD2
+    localFileId: -6375558989779750178
+    rtMem: 4800
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_03_LOD0
+    localFileId: -6081233112215813991
+    rtMem: 21168
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Large_02_LOD1
+    localFileId: -6030260888255111973
+    rtMem: 28224
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Large_01_LOD1
+    localFileId: -5215231401816384979
+    rtMem: 30864
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_04_LOD0
+    localFileId: -4819331377300543060
+    rtMem: 21264
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Large_01_LOD2
+    localFileId: -4767823104392330369
+    rtMem: 12624
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_01_LOD1
+    localFileId: -4193678135513800373
+    rtMem: 5664
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_02_LOD2
+    localFileId: -3915094682483705706
+    rtMem: 2544
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Large_02_LOD2
+    localFileId: -3230299126157899350
+    rtMem: 11424
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_01_LOD1
+    localFileId: -2990592725797257367
+    rtMem: 20784
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_04_LOD3
+    localFileId: -2340576305565150942
+    rtMem: 1968
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Large_01_LOD0
+    localFileId: -1813093079833577664
+    rtMem: 60672
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_02_LOD3
+    localFileId: -1144817913412082075
+    rtMem: 1920
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_03_LOD0
+    localFileId: -714838373295429512
+    rtMem: 15840
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_02_LOD3
+    localFileId: -577479673463658916
+    rtMem: 1104
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_01_LOD0
+    localFileId: -482127374128861220
+    rtMem: 11280
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_03_LOD3
+    localFileId: 725685324179675968
+    rtMem: 1920
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_01_LOD2
+    localFileId: 1008598313011010483
+    rtMem: 8736
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_04_LOD2
+    localFileId: 1394674428299039408
+    rtMem: 4704
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_03_LOD3
+    localFileId: 2216957081415899205
+    rtMem: 1920
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_03_LOD1
+    localFileId: 2685028052992066073
+    rtMem: 10992
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_04_LOD2
+    localFileId: 2827629819536174184
+    rtMem: 4752
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_02_LOD1
+    localFileId: 3507313428719550088
+    rtMem: 10752
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_04_LOD1
+    localFileId: 3929793779377447751
+    rtMem: 11040
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_04_LOD1
+    localFileId: 4688650859904537512
+    rtMem: 10944
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_01_LOD3
+    localFileId: 4962735818848723125
+    rtMem: 3504
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_01_LOD2
+    localFileId: 6897175138640717524
+    rtMem: 2592
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_04_LOD0
+    localFileId: 7264728988461330570
+    rtMem: 21120
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_03_LOD1
+    localFileId: 7845200811815625603
+    rtMem: 10800
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Large_02_LOD3
+    localFileId: 8305853447903141656
+    rtMem: 4608
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Large_01_LOD3
+    localFileId: 8316657487648104825
+    rtMem: 4992
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Small_02_LOD0
+    localFileId: 8319031113348225140
+    rtMem: 11280
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx:Rock_Medium_03_LOD2
+    localFileId: 8378084235406741180
+    rtMem: 4512
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_Kayak
+    localFileId: 4300006
+    rtMem: 5856
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_Bouy_LOD_0
+    localFileId: 4300016
+    rtMem: 10032
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_Umbrella_LOD_0
+    localFileId: 4300018
+    rtMem: 16512
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_WindSurfer_LOD_0
+    localFileId: 4300020
+    rtMem: 27264
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_Chair_LOD_0
+    localFileId: 4300022
+    rtMem: 6624
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_Paraglider_LOD_0
+    localFileId: 4300024
+    rtMem: 25104
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_Bouy_LOD_1
+    localFileId: 4300028
+    rtMem: 3024
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_Umbrella_LOD_1
+    localFileId: 4300030
+    rtMem: 5808
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_Chair_LOD_1
+    localFileId: 4300032
+    rtMem: 3840
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_WindSurfer_LOD_1
+    localFileId: 4300034
+    rtMem: 13776
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_Paraglider_LOD_1
+    localFileId: 4300036
+    rtMem: 11136
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx:Geo_Props_ArrowSign_LOD_1
+    localFileId: 4300038
+    rtMem: 5904
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/Palm_02.fbx:Palm_02
+    localFileId: 4300000
+    rtMem: 39840
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Trees/Meshes/Palm_02.fbx:Palm_02_billboard
+    localFileId: 4300002
+    rtMem: 1152
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/PalmB_02.fbx:PalmB_02
+    localFileId: 4300000
+    rtMem: 61800
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Trees/Meshes/PalmB_02.fbx:PalmB_02_billboard
+    localFileId: 4300002
+    rtMem: 1248
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/Bush_Large_01.fbx:Bush_Large_01
+    localFileId: 4300000
+    rtMem: 29744
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/Palm_03.fbx:Palm_03
+    localFileId: 4300000
+    rtMem: 36660
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Trees/Meshes/Palm_03.fbx:Palm_03_billboard
+    localFileId: 4300002
+    rtMem: 1344
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/PalmB_01.fbx:PalmB_01
+    localFileId: 4300000
+    rtMem: 63000
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Trees/Meshes/PalmB_01.fbx:PalmB_01_billboard
+    localFileId: 4300002
+    rtMem: 1248
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/HousesJetty_LOW.fbx:House05
+    localFileId: 4300002
+    rtMem: 54600
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/HousesJetty_LOW.fbx:House04
+    localFileId: 4300004
+    rtMem: 60536
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/HousesJetty_LOW.fbx:House03
+    localFileId: 4300006
+    rtMem: 45640
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/HousesJetty_LOW.fbx:House02
+    localFileId: 4300008
+    rtMem: 63840
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/HousesJetty_LOW.fbx:House01
+    localFileId: 4300010
+    rtMem: 66696
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/HousesJetty_LOW.fbx:JettyLong01
+    localFileId: 4300012
+    rtMem: 31920
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/props/houses/HousesJetty_LOW.fbx:JettySqr01
+    localFileId: 4300014
+    rtMem: 42448
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/Palm_01.fbx:Palm_01
+    localFileId: 4300000
+    rtMem: 44760
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/environment/Trees/Meshes/Palm_01.fbx:Palm_01_billboard
+    localFileId: 4300002
+    rtMem: 1152
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_outter4
+    localFileId: 4300002
+    rtMem: 7140
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_mid4
+    localFileId: 4300004
+    rtMem: 20820
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_mid3
+    localFileId: 4300006
+    rtMem: 20820
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_outter3
+    localFileId: 4300008
+    rtMem: 7140
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_outter1
+    localFileId: 4300010
+    rtMem: 7140
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_mid2
+    localFileId: 4300012
+    rtMem: 20820
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_mid1
+    localFileId: 4300014
+    rtMem: 20820
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_outter2
+    localFileId: 4300016
+    rtMem: 7140
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_far4
+    localFileId: 4300018
+    rtMem: 12580
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_far3
+    localFileId: 4300020
+    rtMem: 12580
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_far2
+    localFileId: 4300022
+    rtMem: 12580
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_far1
+    localFileId: 4300024
+    rtMem: 12580
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_center
+    localFileId: 4300026
+    rtMem: 77140
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_near4
+    localFileId: 4300028
+    rtMem: 23140
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_near3
+    localFileId: 4300030
+    rtMem: 23140
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_near2
+    localFileId: 4300032
+    rtMem: 23140
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaVertDisp_near1
+    localFileId: 4300034
+    rtMem: 23140
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaDistant_01
+    localFileId: 4300036
+    rtMem: 4180
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaDistant_02
+    localFileId: 4300038
+    rtMem: 4180
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaDistant_03
+    localFileId: 4300040
+    rtMem: 4180
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaDistant_04
+    localFileId: 4300042
+    rtMem: 4180
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaDistant_04
+      (2)
+    localFileId: 4300044
+    rtMem: 4780
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaDistant_03
+      (2)
+    localFileId: 4300046
+    rtMem: 4780
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaDistant_02
+      (2)
+    localFileId: 4300048
+    rtMem: 4780
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx:SeaDistant_01
+      (2)
+    localFileId: 4300050
+    rtMem: 4780
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/InstantGameModle/ADS_Board/ads_board_merge.fbx:base
+    localFileId: -1388485733357891733
+    rtMem: 53088
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/InstantGameModle/ADS_Board/ads_board_merge.fbx:boardB
+    localFileId: 6399472011644846128
+    rtMem: 192
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/InstantGameModle/ADS_Board/ads_board_merge.fbx:boardF
+    localFileId: 8876084948384186357
+    rtMem: 192
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliff_Full_01.fbx:Cliff_Full_01_LOD2
+    localFileId: -354317562778174967
+    rtMem: 51936
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliff_Full_01.fbx:Cliff_Full_01_LOD1
+    localFileId: 4322190492031785321
+    rtMem: 102000
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliff_Full_01.fbx:Cliff_Full_01_LOD3
+    localFileId: 6182187882714058441
+    rtMem: 14112
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliff_Full_01.fbx:Cliff_Full_01_LOD0
+    localFileId: 9219547557578772948
+    rtMem: 193680
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_CaveExit_LOD0
+    localFileId: -8924396195106544907
+    rtMem: 220080
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_Cave_LOD3
+    localFileId: -8082760637823432697
+    rtMem: 19104
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_Cave_LOD0
+    localFileId: -4005311707331837637
+    rtMem: 219408
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_Cave_LOD2
+    localFileId: -3202142215666097471
+    rtMem: 37680
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_CaveEntrance_LOD2
+    localFileId: -2882494156466250099
+    rtMem: 23664
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_Cave_LOD1
+    localFileId: -826887950204415953
+    rtMem: 89232
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_CaveExit_LOD1
+    localFileId: -738299487023037535
+    rtMem: 102432
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_CaveEntrance_LOD3
+    localFileId: 2935771585077406598
+    rtMem: 11184
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_CaveExit_LOD2
+    localFileId: 5170734092259303228
+    rtMem: 39696
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_CaveEntrance_LOD1
+    localFileId: 6410386201038891259
+    rtMem: 59904
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_CaveExit_LOD3
+    localFileId: 6825791487622679153
+    rtMem: 16992
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cave.fbx:Hero_CaveEntrance_LOD0
+    localFileId: 8979683407064115011
+    rtMem: 146880
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_03_LOD1
+    localFileId: -8166216632019887857
+    rtMem: 60528
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_02_LOD1
+    localFileId: -8086786318951803551
+    rtMem: 40848
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Full_02_LOD0
+    localFileId: -7479265986367132559
+    rtMem: 246720
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Full_02_LOD3
+    localFileId: -7472592838121336639
+    rtMem: 20160
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Full_03_LOD3
+    localFileId: -6546351039462801530
+    rtMem: 12864
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_03_LOD3
+    localFileId: -6533561889449581902
+    rtMem: 10560
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_02_LOD3
+    localFileId: -4967092811474907294
+    rtMem: 10656
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Full_03_LOD1
+    localFileId: -4075238742714583486
+    rtMem: 42720
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_01_LOD3
+    localFileId: -3670052009954935824
+    rtMem: 11232
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_03_LOD0
+    localFileId: -3224567154040315745
+    rtMem: 120864
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_01_LOD0
+    localFileId: -2257845967790152785
+    rtMem: 80496
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Full_02_LOD2
+    localFileId: -1886977518472508121
+    rtMem: 36336
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_01_LOD1
+    localFileId: -571217759888895787
+    rtMem: 41040
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_03_LOD2
+    localFileId: 549947260419204514
+    rtMem: 30336
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_01_LOD2
+    localFileId: 1823125477255888674
+    rtMem: 21216
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_02_LOD0
+    localFileId: 3700951578291924597
+    rtMem: 79872
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Full_03_LOD0
+    localFileId: 5626640435754444565
+    rtMem: 93600
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Full_03_LOD2
+    localFileId: 6123122059750609484
+    rtMem: 22800
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Wall_02_LOD2
+    localFileId: 6623804460766066169
+    rtMem: 21072
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Cliffs.fbx:Cliff_Full_02_LOD1
+    localFileId: 8444270778791213718
+    rtMem: 66864
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: "Assets/Objects/gastest/Bettery.fbx:\u67F1\u4F53H"
+    localFileId: -1712803223152770404
+    rtMem: 12288
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: "Assets/Objects/gastest/Bettery.fbx:\u67F1\u4F53M"
+    localFileId: -1651979382863425228
+    rtMem: 8064
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: "Assets/Objects/gastest/Bettery.fbx:\u67F1\u4F53L"
+    localFileId: 3058890343289185390
+    rtMem: 4992
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Hero_Tower.fbx:Hero_Tower_LOD2
+    localFileId: -8309699650310175349
+    rtMem: 59040
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Hero_Tower.fbx:Hero_Tower_LOD3
+    localFileId: -5970788192211417710
+    rtMem: 31824
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Hero_Tower.fbx:Hero_Tower_LOD1
+    localFileId: -5460765038929324149
+    rtMem: 114144
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Hero_Tower.fbx:Hero_Tower_LOD0
+    localFileId: 8276285399524909781
+    rtMem: 225888
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Hero_Mountain.fbx:Hero_Mountain_LOD0
+    localFileId: -3492302905074086507
+    rtMem: 227232
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Hero_Mountain.fbx:Hero_Mountain_LOD1
+    localFileId: -2995125762140447851
+    rtMem: 115152
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Hero_Mountain.fbx:Hero_Mountain_LOD2
+    localFileId: -1114131002523227614
+    rtMem: 59904
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Hero_Mountain.fbx:Hero_Mountain_LOD3
+    localFileId: 6621895990717353038
+    rtMem: 31008
+    warningFlag: 0
+    refs:
+    - 1
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/boats/Interceptor/Interceptor.fbx:Boat_Interceptor
+    localFileId: 4300000
+    rtMem: 102284
+    warningFlag: 0
+    refs:
+    - interceptor
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/boats/Interceptor/Interceptor.fbx:physics
+    localFileId: 2899951614431091848
+    rtMem: 7680
+    warningFlag: 0
+    refs:
+    - interceptor
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/boats/Interceptor/Interceptor.fbx:Boat_Interceptor_Engine
+    localFileId: 6235005220218627844
+    rtMem: 5408
+    warningFlag: 0
+    refs:
+    - interceptor
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/boats/renegade/Renegade.fbx:Engine
+    localFileId: -7037502782376635450
+    rtMem: 12528
+    warningFlag: 0
+    refs:
+    - renegade
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/boats/renegade/Renegade.fbx:Speedboat
+    localFileId: 8247320481306587565
+    rtMem: 40368
+    warningFlag: 0
+    refs:
+    - renegade
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/UI/meshes/checkpoint.fbx:Checkpoint
+    localFileId: 3185056376471686388
+    rtMem: 4896
+    warningFlag: 0
+    refs:
+    - checkpoint
+  mAnimations:
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/props/props/Animations/GliderIdle.anim:GliderIdle
+    localFileId: 7400000
+    rtMem: 444
+    warningFlag: 0
+    refs:
+    - 0
+    - 1
+    - 2
+    - 3
+    - 4
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/Menu_InstantEnterRace.anim:Menu_InstantEnterRace
+    localFileId: 7400000
+    rtMem: 3284
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/BoatRoomCamerasTimeline.playable:Recorded (2)
+    localFileId: 732519997791969953
+    rtMem: 2920
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/BoatRoomCamerasTimeline.playable:Recorded (1)
+    localFileId: 7016871392468290037
+    rtMem: 2920
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/BoatRoomCamerasTimeline.playable:Recorded
+    localFileId: 8400337018858977241
+    rtMem: 2684
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Race_InstantGame/FirstOpen.anim:FirstOpen
+    localFileId: 7400000
+    rtMem: 2628
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/Levels/Island/Introcycle.playable:Recorded (4)
+    localFileId: 6777397131977009466
+    rtMem: 2656
+    warningFlag: 0
+    refs:
+    - 3
+    - 4
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/Menu_EnterSettings.anim:Menu_EnterSettings
+    localFileId: 7400000
+    rtMem: 2932
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Race_InstantGame/OpenPause.anim:OpenPause
+    localFileId: 7400000
+    rtMem: 2824
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/Button.controller:Normal
+    localFileId: -3215707568749391740
+    rtMem: 0
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/Button.controller:Highlighted
+    localFileId: 693976357234634987
+    rtMem: 2628
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/Button.controller:Disabled
+    localFileId: 7803689939433400751
+    rtMem: 0
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/Button.controller:Pressed
+    localFileId: 8860007867638080382
+    rtMem: 2628
+    warningFlag: 0
+    refs:
+    - 0
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/Race_InstantGame/CloseGameplay.anim:CloseGameplay
+    localFileId: 7400000
+    rtMem: 2628
+    warningFlag: 0
+    refs:
+    - 0
+    - ui_race_canvas_touch
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/Levels/Island/IntroCamerasTimeline.playable:Recorded
+      (1)
+    localFileId: -5889927342857225385
+    rtMem: 3200
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    - 3
+    - 4
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/Levels/Island/IntroCamerasTimeline.playable:Recorded
+      (2)
+    localFileId: 1772553383556952198
+    rtMem: 2628
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    - 3
+    - 4
+  - onDemandDownload: 0
+    assetPath: Assets/Objects/Levels/Island/IntroCamerasTimeline.playable:Recorded
+      (4)
+    localFileId: 6777397131977009466
+    rtMem: 2656
+    warningFlag: 0
+    refs:
+    - 1
+    - 2
+    - 3
+    - 4
+  - onDemandDownload: 0
+    assetPath: Assets/Animation/UI/Menu_Singleplayer_LevelToBoat.anim:Menu_Singleplayer_LevelToBoat
+    localFileId: 7400000
+    rtMem: 3156
+    warningFlag: 0
+    refs:
+    - 0
+  mSharedSceneAssets:
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/AdImage/IG_ads_board.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/AdImage/adsBoardTexture.png
+    assetType: 28
+    rtMem: 87400
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Data/Volumes/CavePost.asset
+    assetType: 114
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Data/WaterSettingsData.asset
+    assetType: 114
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Data/WaterSurfaceData.asset
+    assetType: 114
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/DroneCam Profile.asset
+    assetType: 114
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/InstantGameModle/ADS_Board/addbase.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/InstantGameModle/ADS_Board/ads_board_merge.fbx
+    assetType: 43
+    rtMem: 192
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/Blocker.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/BushTest.mat
+    assetType: 21
+    rtMem: 0
+    refs: 01000000020000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/LightShaft.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/Seaweed.mat
+    assetType: 21
+    rtMem: 0
+    refs: 01000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Materials/Splash.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/Terrain.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Materials/_foam.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Materials/_waterFoam.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/Levels/Island/BeachSand.terrainlayer
+    assetType: 1953259897
+    rtMem: 0
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/Levels/Island/Bush.terrainlayer
+    assetType: 1953259897
+    rtMem: 0
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/Levels/Island/ClearSky/ClearSky.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/Levels/Island/ClearSky/Island_Post_Clear.asset
+    assetType: 114
+    rtMem: 0
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/Levels/Island/IntroCamerasTimeline.playable
+    assetType: 114
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/Levels/Island/Introcycle.playable
+    assetType: 114
+    rtMem: 0
+    refs: 0400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/Levels/Island/Terrain_0_0.asset
+    assetType: 156
+    rtMem: 0
+    refs: 01000000020000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/Levels/Island/Terrain_1_0.asset
+    assetType: 156
+    rtMem: 0
+    refs: 01000000020000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Cliffs/Materials/Env_Cliff_Full_01.mat
+    assetType: 21
+    rtMem: 0
+    refs: 01000000020000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Cliffs/Materials/Env_Cliffs.mat
+    assetType: 21
+    rtMem: 0
+    refs: 01000000020000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Cliffs/Materials/Env_HeroCave.mat
+    assetType: 21
+    rtMem: 0
+    refs: 01000000020000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Cliffs/Materials/Env_HeroLarge.mat
+    assetType: 21
+    rtMem: 0
+    refs: 01000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Cliffs/Materials/Env_Rocks.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Cliffs/Meshes/Env_Rocks.fbx
+    assetType: 43
+    rtMem: 2016
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Clouds/Clouds.fbx
+    assetType: 43
+    rtMem: 4784
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Clouds/Clouds.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Trees/Materials/Bushes.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Trees/Materials/Trees.mat
+    assetType: 21
+    rtMem: 0
+    refs: 01000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Trees/Materials/Trees_billboards.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/PalmB_01.fbx
+    assetType: 43
+    rtMem: 1248
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/PalmB_02.fbx
+    assetType: 43
+    rtMem: 1248
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/Palm_01.fbx
+    assetType: 43
+    rtMem: 1152
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/Palm_02.fbx
+    assetType: 43
+    rtMem: 1152
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/environment/Trees/Meshes/Palm_03.fbx
+    assetType: 43
+    rtMem: 1344
+    refs: 0000000001000000020000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Trees/Prefabs/Bush_Large_01.prefab
+    assetType: 33
+    rtMem: 0
+    refs: 0400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Trees/Prefabs/PalmB_01.prefab
+    assetType: 23
+    rtMem: 0
+    refs: 0400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Trees/Prefabs/PalmB_02.prefab
+    assetType: 23
+    rtMem: 0
+    refs: 0400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Trees/Prefabs/Palm_01.prefab
+    assetType: 23
+    rtMem: 0
+    refs: 0400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Trees/Prefabs/Palm_02.prefab
+    assetType: 33
+    rtMem: 0
+    refs: 0400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/environment/Trees/Prefabs/Palm_03.prefab
+    assetType: 23
+    rtMem: 0
+    refs: 0400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/props/houses/Materials/Matr_BuildingsJettys.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/props/props/Animations/GliderIdle.anim
+    assetType: 74
+    rtMem: 444
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/props/props/Materials/Matr_Props.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/props/props/Materials/Matr_Props_Hue.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/props/props/Materials/ParagliderSmoke.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Objects/props/props/Materials/arrlitpbr.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Objects/props/props/Meshes/Props_low.fbx
+    assetType: 43
+    rtMem: 3024
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Resources/Mixer/MainMixer.mixer
+    assetType: 245
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Shaders/CliffShader_simple.ShaderGraph
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Shaders/Clouds/CloudShader.shadergraph
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Shaders/Houses_Jetty_simple.shadergraph
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Shaders/Skybox-Procedural-Universal.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/Shaders/UtilityGraphs/PBR_HUE_simple.ShaderGraph
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Assets/Shaders/Vegetation/Vegetation_Mobile.shadergraph
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/gastest/Bettery.fbx
+    assetType: 43
+    rtMem: 4992
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/gastest/GasMat 1.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/gastest/GasMat.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Assets/gastest/gasPBR.shadergraph
+    assetType: 48
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.unity.cinemachine/Presets/Noise/Handheld_normal_mild.asset
+    assetType: 114
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Packages/com.unity.cinemachine/Presets/Noise/Handheld_tele_mild.asset
+    assetType: 114
+    rtMem: 0
+    refs: 0100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+    assetType: 21
+    rtMem: 0
+    refs: 0000000001000000020000000300000004000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/SimpleLit.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainDetailLit.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLit.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitAdd.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitBase.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/TerrainLitBasemapGen.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrass.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/Terrain/WavingGrassBillboard.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.unity.render-pipelines.universal/Shaders/Utils/FallbackError.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.unity.shadergraph/Editor/Resources/Shaders/FallbackError.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.verasl.water-system/Materials/Sea.mat
+    assetType: 21
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 0
+    assetPath: Packages/com.verasl.water-system/Meshes/SeaVertDisp.fbx
+    assetType: 43
+    rtMem: 7140
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.verasl.water-system/Scripts/Data/WaterResources.asset
+    assetType: 114
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.verasl.water-system/Shaders/Water.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.verasl.water-system/Shaders/WaterFXShader.shader
+    assetType: 48
+    rtMem: 0
+    refs: 000000000100000002000000030000000400000005000000
+  - includedInSharedAssetBundle: 1
+    assetPath: Packages/com.verasl.water-system/Textures/DefaultFoamRamp.tif
+    assetType: 28
+    rtMem: 768
+    refs: 000000000100000002000000030000000400000005000000
+  mScenes:
+  - onDemandDownload: 0
+    assetPath: Assets/scenes/main_menu_simple.unity
+    localFileId: -1
+    rtMem: 0
+    warningFlag: 0
+    refs: []
+  - onDemandDownload: 0
+    assetPath: Assets/scenes/_levels/level_Island.unity
+    localFileId: -1
+    rtMem: 0
+    warningFlag: 0
+    refs: []
+  mConfigCCD:
+    useCCD: 1
+    uosSecret: 
+    uosAppid: 
+    bucketUuid: 
+    bucketName: 
+    badgeName: 
+    ttAppid: 
+    targetPlatfrom: Bytedance
